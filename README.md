@@ -6,6 +6,7 @@ This Jupyter Notebook shows the process of transforming an Online Transaction Pr
 
 ## Objectives
 - **Data Transformation**: Convert an OLTP database schema to an OLAP database schema to optimize it for analytical and reporting purposes.
+- **Advanced SQL Queries**: Utilize CTEs and subqueries for complex data manipulation and to add calculated columns to the fact table.
 - **Indexing**: Add relevant indexes to improve query performance.
 - **Data Quality**: Implement scripts to ensure data integrity and consistency.
-- **Advanced SQL Queries**: Utilize CTEs and subqueries for complex data manipulation and to add calculated columns to the fact table.
+
